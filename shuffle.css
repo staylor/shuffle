@@ -1,0 +1,7 @@
+#shuffle-wrap li, #shuffle-wrap li a {cursor: move}
+
+#shuffle-images {overflow: hidden}
+#shuffle-images li {float: left; margin: 0 10px 10px 0;}
+
+.widefat .column-shuffle_parent {padding: 8px 0}
+.shuffle-parent {float: left; margin: 0 10px 0 0; display: block}
